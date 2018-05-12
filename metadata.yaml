@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32063
     wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29948#Two-Timer
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-09'
 gutenberg_type: Text
