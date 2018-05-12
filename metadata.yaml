@@ -1,0 +1,29 @@
+_repo: Two-Timer_29948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Fredric
+    birthdate: 1906
+    deathdate: 1972
+    gutenberg_agent_id: '32063'
+    url: http://www.gutenberg.org/2009/agents/32063
+    wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Two Timer
+url: http://www.gutenberg.org/ebooks/29948
